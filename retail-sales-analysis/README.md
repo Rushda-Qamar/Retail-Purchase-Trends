@@ -6,7 +6,7 @@ This project showcases data cleaning, transformation, and visualization using Py
 
 ## Files Included
 
-- `Quantium Data Analysis.ipynb`: Jupyter Notebook containing full code for data cleaning, merging, and visualization.
+- `Retail Sales Data Analysis.ipynb`: Jupyter Notebook containing full code for data cleaning, merging, and visualization.
 
 ---
 
